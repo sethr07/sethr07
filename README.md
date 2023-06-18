@@ -2,7 +2,6 @@
 - Currently, I am working on a lightweight gmail client for MacOS using Python and Docker (gmail needs an app for Mac!!) that will enable me and people around me to quickly send emails without clicking so many buttons on Chrome! :)
 - You can contact me on [Linkedin](https://www.linkedin.com/in/rahul-seth-a48462124/) or my email: rstcd7@gmail.com
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethr07)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 sethr07/sethr07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
